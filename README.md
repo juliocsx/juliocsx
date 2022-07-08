@@ -1,7 +1,7 @@
 
 # Hey everyone 👋
 
-My name is Julio Cesar, and 2022 was a year of change.
+My name is Julio Cesar, and 2022 was a year of change for me.
 
 I decided to try this new area where a lot of people i know work on, and i always wanted to try, but never had the guts to do it.
 
