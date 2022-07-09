@@ -15,7 +15,7 @@ Now here i am, in this new universe, trying to learn as much as i can. 🙂
 
 🧠 I'm Studying...
 
-    HTML, CSS, JavaScript, Python, SQL
+    HTML, CSS, JavaScript, Python, SQL, Git
 
 💡 I want to learn...
 
