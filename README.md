@@ -10,23 +10,35 @@ After some time of struggle, i decided that it was the time to move on, and so i
 Now here i am, in this new universe, trying to learn as much as i can. 🙂
 
 
-## A little bit more about me
+##
 
 
-🧠 I'm Studying...
+🛠 I'm Studying and Developing With...
+    
+   <div>
+        <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+   </div>
 
-    HTML, CSS, JavaScript, Python, SQL, Git
-
-💡 I want to learn...
-
-    React, PHP, Ajax
+##
 
 ❤ Things i love to do...
 
-    Play games, watch series and now, code!
+    Play games, watch series, hang out with friends and family and now, code!
  
+ <div>
+    <img src="https://c.tenor.com/NCdI2fOl-tQAAAAM/bart-simpson-video-games.gif" width="245" height="150">
+    <img src="https://c.tenor.com/cstKEMD7lPsAAAAC/popcorn-spongebob.gif" width="245" height="150">
+    <img src="https://i.pinimg.com/originals/13/42/ec/1342ecb7c01a1c19cfc3d07954bc3831.gif" width="245" height="150">
+    <img src="https://c.tenor.com/eQlXwfXcQ4YAAAAM/anime-computer.gif" width="245" height="150">
+</div>
 
-
-## 🔗 Links
+##
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-csouza/)
 
