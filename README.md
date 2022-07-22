@@ -9,9 +9,7 @@ After some time of struggle, i decided that it was the time to move on, and so i
 
 Now here i am, in this new universe, trying to learn as much as i can. 🙂
 
-
 ##
-
 
 🛠 I'm Studying and Developing With...
     
