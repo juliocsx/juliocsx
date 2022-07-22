@@ -32,7 +32,7 @@ Now here i am, in this new universe, trying to learn as much as i can. 🙂
 
     Play games, watch series, hang out with friends and family and now, code!
  
- <div style="display: flex; align-items: center; justify-content: center;" >
+ <div>
     <img src="https://c.tenor.com/NCdI2fOl-tQAAAAM/bart-simpson-video-games.gif" width="250" height="150">
     <img src="https://i.pinimg.com/originals/13/42/ec/1342ecb7c01a1c19cfc3d07954bc3831.gif" width="250" height="150">
     <img src="https://c.tenor.com/eQlXwfXcQ4YAAAAM/anime-computer.gif" width="250" height="150">
