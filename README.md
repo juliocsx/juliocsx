@@ -9,9 +9,7 @@ After some time of struggle, i decided that it was the time to move on, and so i
 
 Now here i am, in this new universe, trying to learn as much as i can. 🙂
 
-##
-
-🛠 I'm Studying and Developing With...
+## 🛠 I'm Studying and Developing With...
     
    <div>
         <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
@@ -24,9 +22,7 @@ Now here i am, in this new universe, trying to learn as much as i can. 🙂
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
    </div>
 
-##
-
-❤ Things i love to do...
+## ❤ Things i love to do...
 
     Play games, watch series, hang out with friends and family and now, code!
  
@@ -36,6 +32,13 @@ Now here i am, in this new universe, trying to learn as much as i can. 🙂
     <img src="https://c.tenor.com/eQlXwfXcQ4YAAAAM/anime-computer.gif" width="250" height="150">
 </div>
 
-##
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-csouza/)
+## 🔗 Links
+
+<img src="https://www.codewars.com/users/juliocsx/badges/large">
+
+<div>  
+  <a href = "mailto:j.cesarsx50@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/julio-csouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
+
 
