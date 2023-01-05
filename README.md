@@ -11,22 +11,24 @@ Now here i am, in this new universe, trying to learn as much as i can. 🙂
 
 ## 🛠 I'm Studying and Developing With...
     
-   <div>
-        <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-   </div>
+<div>
+    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+    <a href="https://www.codewars.com/users/juliocsx"><img src="https://www.codewars.com/users/juliocsx/badges/small" width="400px"></a>
+</div>
 
+   
 ## ❤ Things i love to do...
 
     Play games, watch series, hang out with friends and family and now, code!
  
- <div>
+<div>
     <img src="https://c.tenor.com/NCdI2fOl-tQAAAAM/bart-simpson-video-games.gif" width="250" height="150">
     <img src="https://i.pinimg.com/originals/13/42/ec/1342ecb7c01a1c19cfc3d07954bc3831.gif" width="250" height="150">
     <img src="https://c.tenor.com/eQlXwfXcQ4YAAAAM/anime-computer.gif" width="250" height="150">
@@ -34,11 +36,6 @@ Now here i am, in this new universe, trying to learn as much as i can. 🙂
 
 ## 🔗 Links
 
-<img src="https://www.codewars.com/users/juliocsx/badges/large">
-
-<div>  
-  <a href = "mailto:j.cesarsx50@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/julio-csouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
-
+<a href="mailto:j.cesarsx50@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/julio-csouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
